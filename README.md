@@ -71,7 +71,7 @@ $ cd /manapy/tests/Test66/
 $ python Test66.py
 ```
 
-# Test 67 : Test 6.7 (Perturbation of stationary state).
+# Test 6.7 : (Perturbation of stationary state).
 
 ```sh
 $ cd /manapy/models/Test67
