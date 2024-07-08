@@ -36,20 +36,20 @@ And the tests (Test1 and Test67) are in models
 
 Viewing is done in paraview
 
-# Test 61 : (Experimental order of convergence)
+# Test 6.1 : (Experimental order of convergence)
 ```sh
 $ cd /manapy/models/Test61
 $ python Test61.py
 ```
 
-# Test 62 : (One dimensional dam break problem in SWMHD)
+# Test 6.2 : (One dimensional dam break problem in SWMHD)
 
 ```sh
 $ cd /manapy/tests/Test62/
 $ python Test62.py
 ```
 
-# Test 63 : (Two dimensional explosion problem)
+# Test 6.3 : (Two dimensional explosion problem)
 
 ```sh
 $ cd /manapy/tests/Test63/
@@ -57,11 +57,11 @@ $ python Test63.py
 ```
 
 
-# Test 65 : (C-property ).
+# Test 6.5 : (C-property ).
 
 ```sh
-$ cd /manapy/tests/Test63/
-$ python Test66.py
+$ cd /manapy/tests/Test65/
+$ python Test65.py
 ```
 
 # Test 66 : (C-property test with magnetic field ).
@@ -83,7 +83,7 @@ Case 2 : Folder : ky(0,1)
 ```
 
 
-# Test 68 : (Orszag–Tang-like turbulence problem).
+# Test 6.8 : (Orszag–Tang-like turbulence problem).
 
 ```sh
 $ cd /manapy/tests/Test66/
