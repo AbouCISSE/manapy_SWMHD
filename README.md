@@ -64,7 +64,7 @@ $ cd /manapy/tests/Test65/
 $ python Test65.py
 ```
 
-# Test 66 : (C-property test with magnetic field ).
+# Test 6.6 : (C-property test with magnetic field ).
 
 ```sh
 $ cd /manapy/tests/Test66/
